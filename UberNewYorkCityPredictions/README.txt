@@ -11,5 +11,3 @@ Modified CSV dataset files:
 5. uber-raw-data-aug14.csv
 6. uber-raw-data-aug14.csv
 
-Zip file of whole dataset:
-uber-pickups-in-new-york-city_zip.zip
